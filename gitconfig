@@ -1,7 +1,10 @@
 [user]
 	name = Accuracy98
-	email = y1500846103outlook.com
+	email = y1500846103@outlook.com
+	signingkey = 363E2066079E3F5F
 [core]
 	editor = nvim
 [init]
 	defaultBranch = main
+[commit]
+	gpgsign = true
